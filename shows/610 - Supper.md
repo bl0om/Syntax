@@ -3,6 +3,12 @@ number: 610
 title: Supper Club × Zach Lloyd from Warp
 date: 1683288000317
 url: https://traffic.libsyn.com/syntax/Syntax_-_610.mp3
+guest:
+  name: Zach Lloyd
+  github: zachlloyd
+  twitter: zachlloydtweets
+  url: https://www.warp.dev/
+  social: https://www.linkedin.com/in/zachlloyd/
 ---
 
 In this supper club episode of Syntax, Wes and Scott talk with Zach Lloyd about how Google Sheets works, why Zach wanted to build Warp, why did they use Rust to write Warp in, is Warp going to come to Windows, and more!
